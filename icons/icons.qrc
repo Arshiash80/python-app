@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="MainLogo">
+    <file>Logo.png</file>
+  </qresource>
+  <qresource prefix="Message">
+    <file>message.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>exit icon.png</file>
+    <file>CreateIcon.png</file>
+    <file>GirisIconu.png</file>
+    <file>ArrowsDown.png</file>
+    <file>ArrowsUp.png</file>
+    <file>Update.png</file>
+    <file>Dolar.png</file>
+    <file>Euro.png</file>
+    <file>Gold.png</file>
+    <file>Sterling.png</file>
+    <file>Tl.png</file>
+    <file>NewAcount.png</file>
+    <file>Login.png</file>
+  </qresource>
+  <qresource prefix="Background">
+    <file>ClockBackground.jpg</file>
+    <file>LoginBackground.jpg</file>
+    <file>DayBackground.jpg</file>
+    <file>NightBackground.jpg</file>
+  </qresource>
+  <qresource prefix="GraphIcon">
+    <file>Graph.png</file>
+  </qresource>
+  <qresource prefix="MoneyIcon">
+    <file>Money.png</file>
+  </qresource>
+</RCC>
